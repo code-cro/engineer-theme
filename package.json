@@ -1,0 +1,26 @@
+{
+    "name": "engineer-theme",
+    "displayName": "engineer-theme",
+    "description": "Theme for Vs Code",
+    "version": "0.0.9",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Engineer Theme - Sky",
+                "uiTheme": "vs-dark",
+                "path": "./themes/engineer Theme-color-theme.json"
+            },
+            {
+                "label": "Engineer Theme - Gold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/engineer Theme-color-theme-gold.json"
+            }
+        ]
+    }
+}
