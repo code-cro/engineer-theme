@@ -261,7 +261,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#F3AC45"
+				"foreground": "#F37D45"
 			}
 		},
 		{
@@ -270,7 +270,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#4741AA"
+				"foreground": "#F3CA45"
 			}
 		},
 		{
