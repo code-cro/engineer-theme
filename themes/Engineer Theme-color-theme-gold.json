@@ -28,7 +28,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#cdd8e2"
+				"foreground": "#f5f5f5"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#B8D0E8"
 			}
 		},
 		{
