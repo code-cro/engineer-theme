@@ -2,7 +2,7 @@
     "name": "engineer-theme",
     "displayName": "engineer-theme",
     "description": "Theme for Vs Code",
-    "version": "0.0.9",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.40.0"
     },
