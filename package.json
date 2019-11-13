@@ -2,6 +2,10 @@
     "name": "engineer-theme",
     "displayName": "engineer-theme",
     "description": "Theme for Vs Code",
+    "publisher": "josiphaboic",
+    "repository": {
+        "url": "https://github.com/JosipHaboic/engineer-theme.git"
+    },
     "version": "2.0.0",
     "engines": {
         "vscode": "^1.40.0"
