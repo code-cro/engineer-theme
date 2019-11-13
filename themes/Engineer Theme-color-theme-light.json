@@ -5,18 +5,20 @@
 		"editor.background": "#DEECF9",
 		"editor.foreground": "#5685B2",
 		"activityBarBadge.background": "#0367c5",
-		"activityBar.background": "#141A20",
-		"sideBarTitle.foreground": "#feffff",
-		"sideBar.background": "#141A20",
+		"activityBar.background": "#DEECF9",
+		"activityBar.foreground": "#141A20",
+		"sideBarTitle.foreground": "#141A20",
+		"sideBar.background": "#DEECF9",
+		"sideBar.foreground": "#141A20",
 		"editor.lineHighlightBackground": "#e9f3fd",
 		"editor.lineHighlightBorder": "#DEECF9",
 		"editorIndentGuide.background": "#AECBE8",
 		"editorIndentGuide.activeBackground": "#AECBE8",
-		"editorRuler.foreground": "#AECBE8",
-		"tab.activeBackground": "#AECBE8",
-		"tab.activeForeground": "#141A20",
-		"tab.inactiveBackground": "#141A20",
-		"tab.inactiveForeground": "#feffff"
+		"editorRuler.foreground": "#d4e6f7",
+		"tab.activeBackground": "#141A20",
+		"tab.activeForeground": "#DEECF9",
+		"tab.inactiveBackground": "#DEECF9",
+		"tab.inactiveForeground": "#141A20"
 	},
 	"tokenColors": [
 		{
@@ -37,7 +39,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#141A20"
+				"foreground": "#222222"
 			}
 		},
 		{
@@ -67,7 +69,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#5685B2"
+				"foreground": "#000000"
 			}
 		},
 		{
@@ -87,7 +89,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#141A20"
+				"foreground": "#5884AD"
 			}
 		},
 		{
@@ -98,7 +100,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#141A20"
+				"foreground": "#5884AD"
 			}
 		},
 		{
@@ -146,7 +148,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#141A20"
+				"foreground": "#3B4E60"
 			}
 		},
 		{
@@ -186,7 +188,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#225CAD"
+				"foreground": "#386897"
 			}
 		},
 		{
@@ -211,7 +213,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#225CAD"
+				"foreground": "#82c2ff"
 			}
 		},
 		{
@@ -365,7 +367,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#1495e0"
+				"foreground": "#141A20"
 			}
 		},
 		{
@@ -383,7 +385,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#1495e0"
+				"foreground": "#141A20"
 			}
 		},
 		{
@@ -401,7 +403,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#1495e0"
+				"foreground": "#141A20"
 			}
 		},
 		{
@@ -419,7 +421,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#1495e0"
+				"foreground": "#141A20"
 			}
 		},
 		{
@@ -437,7 +439,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#1495e0"
+				"foreground": "#141A20"
 			}
 		},
 		{
@@ -447,7 +449,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#dddddd"
+				"foreground": "#141A20"
 			}
 		},
 		{
