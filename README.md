@@ -10,3 +10,7 @@ Enjoy!
 ## Gold version
 
 ![Engineer Gold](./engineer-gold.png)
+
+## Light version
+
+![Engineer Light](./engineer-light.png)
