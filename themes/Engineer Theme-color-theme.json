@@ -8,6 +8,15 @@
 		"activityBar.background": "#141A20",
 		"sideBarTitle.foreground": "#feffff",
 		"sideBar.background": "#141A20",
+		"editor.lineHighlightBackground": "#1a2129",
+		"editor.lineHighlightBorder": "#141A20",
+		"editorIndentGuide.background": "#3B4E60",
+		"editorIndentGuide.activeBackground": "#3B4E60",
+		"editorRuler.foreground": "#3B4E60",
+		"tab.activeBackground": "#141A20",
+		"tab.activeForeground": "#d5e4e7",
+		"tab.inactiveBackground": "#141A20",
+		"tab.inactiveForeground": "#feffff"
 	},
 	"tokenColors": [
 		{
@@ -28,7 +37,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#f5f5f5"
+				"foreground": "#5685B2"
 			}
 		},
 		{
