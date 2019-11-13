@@ -3,7 +3,7 @@
 	"type": "light",
 	"colors": {
 		"editor.background": "#DEECF9",
-		"editor.foreground": "#5685B2",
+		"editor.foreground": "#141A20",
 		"activityBarBadge.background": "#0367c5",
 		"activityBar.background": "#DEECF9",
 		"activityBar.foreground": "#141A20",
@@ -39,7 +39,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#222222"
+				"foreground": "#00284d"
 			}
 		},
 		{
@@ -89,7 +89,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#5884AD"
+				"foreground": "#386897"
 			}
 		},
 		{
@@ -113,7 +113,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#141A20"
+				"foreground": "#436789"
 			}
 		},
 		{
@@ -122,7 +122,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#141A20"
+				"foreground": "#000d1a"
 			}
 		},
 		{
@@ -223,7 +223,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#386897"
+				"foreground": "#141A20"
 			}
 		},
 		{
@@ -233,7 +233,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#225CAD"
+				"foreground": "#141A20"
 			}
 		},
 		{
