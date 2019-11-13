@@ -20,6 +20,11 @@
                 "label": "Engineer Theme - Gold",
                 "uiTheme": "vs-dark",
                 "path": "./themes/engineer Theme-color-theme-gold.json"
+            },
+            {
+                "label": "Engineer Theme - Light",
+                "uiTheme": "vs-light",
+                "path": "./themes/engineer Theme-color-theme-light.json"
             }
         ]
     }
