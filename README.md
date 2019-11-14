@@ -4,7 +4,7 @@ Two themes for all engineers out there :), enjoy!
 
 ## Sky version
 
-![Engineer Sky](./engineer-sky.png)
+![Engineer Sky](./engineer.png)
 
 ## Light version
 

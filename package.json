@@ -16,12 +16,12 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Engineer Theme - Sky",
+				"label": "Engineer",
 				"uiTheme": "vs-dark",
 				"path": "./themes/engineer Theme-color-theme.json"
 			},
 			{
-				"label": "Engineer Theme - Light",
+				"label": "Engineer - Light",
 				"uiTheme": "vs",
 				"path": "./themes/engineer Theme-color-theme-light.json"
 			}
