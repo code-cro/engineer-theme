@@ -2,8 +2,6 @@
 
 Two themes for all engineers out there :), enjoy!
 
-## Sky version
-
 ![Engineer Sky](./engineer.png)
 
 ## Light version
