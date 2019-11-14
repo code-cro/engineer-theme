@@ -88,7 +88,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#82c2ff"
+				"foreground": "#356B9E"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#82c2ff"
 			}
 		},
 		{
