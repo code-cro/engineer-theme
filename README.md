@@ -7,10 +7,6 @@ Enjoy!
 
 ![Engineer Sky](./engineer-sky.png)
 
-## Gold version
-
-![Engineer Gold](./engineer-gold.png)
-
 ## Light version
 
 ![Engineer Light](./engineer-light.png)
