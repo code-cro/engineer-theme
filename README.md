@@ -1,12 +1,9 @@
 # Engineer themes
 
-After being not able to find the theme that i would like, i decided to make my own :)
-Enjoy!
+Two themes for all engineers out there :), enjoy!
 
-## Sky version
+![Engineer Sky](https://github.com/JosipHaboic/engineer-theme/raw/master/./engineer.png)
 
-![Engineer Sky](./engineer-sky.png)
+## Light version
 
-## Gold version
-
-![Engineer Gold](./engineer-gold.png)
+![Engineer Light](https://github.com/JosipHaboic/engineer-theme/raw/master/./engineer-light.png)

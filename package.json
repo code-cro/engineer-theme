@@ -1,26 +1,30 @@
 {
-    "name": "engineer-theme",
-    "displayName": "engineer-theme",
-    "description": "Theme for Vs Code",
-    "version": "0.0.9",
-    "engines": {
-        "vscode": "^1.40.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Engineer Theme - Sky",
-                "uiTheme": "vs-dark",
-                "path": "./themes/engineer Theme-color-theme.json"
-            },
-            {
-                "label": "Engineer Theme - Gold",
-                "uiTheme": "vs-dark",
-                "path": "./themes/engineer Theme-color-theme-gold.json"
-            }
-        ]
-    }
+	"name": "engineer-theme",
+	"displayName": "engineer-theme",
+	"description": "Dark Theme for Vs Code",
+	"publisher": "rs4y5rvpftjwgdhnbexa2jnx7t27ravta2hpk6wblbq7kcetdaaa",
+	"repository": {
+		"url": "https://github.com/JosipHaboic/engineer-theme.git"
+	},
+	"version": "10.0.0",
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Engineer",
+				"uiTheme": "vs-dark",
+				"path": "./themes/engineer.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "5fd62d1f-8b8f-4607-953b-9f511853d901",
+		"publisherId": "74ad7f85-29fa-496c-83ff-38ad00ff9d0f",
+		"publisherDisplayName": "josiphaboic"
+	}
 }
