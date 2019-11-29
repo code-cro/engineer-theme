@@ -11,13 +11,9 @@
 		"activityBar.foreground": "#c4c4c4",
 		"sideBarTitle.foreground": "#c4c4c4",
 		"sideBar.background": "#141A20",
-<<<<<<< HEAD:themes/engineer.json
 		"sideBar.foreground": "#c4c4c4",
 		"sideBarSectionHeader.background": "#141A20",
 		"sideBarSectionHeader.foreground": "#356B9E",
-=======
-		"sideBar.foreground": "#d5e4e7",
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 		"editor.lineHighlightBackground": "#181f25",
 		"editor.lineHighlightBorder": "#141A20",
 		"editorIndentGuide.background": "#192129",
@@ -26,7 +22,6 @@
 		"tab.activeBackground": "#141A20",
 		"tab.activeForeground": "#82c2ff",
 		"tab.inactiveBackground": "#141A20",
-<<<<<<< HEAD:themes/engineer.json
 		"tab.inactiveForeground": "#5c7791",
 		"statusBar.background": "#141A20",
 		"statusBar.foreground": "#c4c4c4",
@@ -58,10 +53,7 @@
 		"editorHoverWidget.border": "#141A20",
 		"terminal.background": "#141A20",
 		"terminal.foreground": "#c4c4c4",
-		"textBlockQuote.background": "#141A20",
-=======
-		"tab.inactiveForeground": "#3B4E60"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
+		"textBlockQuote.background": "#141A20"
 	},
 	"tokenColors": [
 		{
@@ -82,11 +74,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
-				"foreground": "#c4c4c4",
-=======
-				"foreground": "#d8d8d8",
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
+				"foreground": "#c4c4c4"
 			}
 		},
 		{
@@ -95,11 +83,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#c4c4c4"
-=======
-				"foreground": "#d5e4e7"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -173,11 +157,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#c4c4c4"
-=======
-				"foreground": "#cce6ff"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -187,11 +167,7 @@
 				"string.other.link"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#c4c4c4"
-=======
-				"foreground": "#cce6ff"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -207,11 +183,7 @@
 				"keyword.other"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#5884AD"
-=======
-				"foreground": "#B8D0E8"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -226,11 +198,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#fcb64d"
-=======
-				"foreground": "#FFA478"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -269,11 +237,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#dadada"
-=======
-				"foreground": "#FFA478"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -314,11 +278,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#c4c4c4"
-=======
-				"foreground": "#ebeef0"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -442,11 +402,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#356B9E"
-=======
-				"foreground": "#82c2ff"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -464,11 +420,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#356B9E"
-=======
-				"foreground": "#82c2ff"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -486,11 +438,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#356B9E"
-=======
-				"foreground": "#82c2ff"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -508,11 +456,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#356B9E"
-=======
-				"foreground": "#82c2ff"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -530,11 +474,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-<<<<<<< HEAD:themes/engineer.json
 				"foreground": "#356B9E"
-=======
-				"foreground": "#82c2ff"
->>>>>>> 72383cc8ee37f52453726e07053890cc900bc981:themes/Engineer Theme-color-theme.json
 			}
 		},
 		{
@@ -637,7 +577,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "italic"
 			}
 		},
 		{
