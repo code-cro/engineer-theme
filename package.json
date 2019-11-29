@@ -1,12 +1,20 @@
 {
 	"name": "engineer-theme",
 	"displayName": "engineer-theme",
+<<<<<<< HEAD
 	"description": "Dark Theme for Vs Code",
+=======
+	"description": "Dark and Light Theme for Vs Code",
+>>>>>>> 72383cc8ee37f52453726e07053890cc900bc981
 	"publisher": "rs4y5rvpftjwgdhnbexa2jnx7t27ravta2hpk6wblbq7kcetdaaa",
 	"repository": {
 		"url": "https://github.com/JosipHaboic/engineer-theme.git"
 	},
+<<<<<<< HEAD
 	"version": "10.0.0",
+=======
+	"version": "5.0.0",
+>>>>>>> 72383cc8ee37f52453726e07053890cc900bc981
 	"engines": {
 		"vscode": "^1.40.0"
 	},
@@ -18,13 +26,27 @@
 			{
 				"label": "Engineer",
 				"uiTheme": "vs-dark",
+<<<<<<< HEAD
 				"path": "./themes/engineer.json"
+=======
+				"path": "./themes/engineer Theme-color-theme.json"
+			},
+			{
+				"label": "Engineer - Light",
+				"uiTheme": "vs",
+				"path": "./themes/engineer Theme-color-theme-light.json"
+>>>>>>> 72383cc8ee37f52453726e07053890cc900bc981
 			}
 		]
 	},
 	"__metadata": {
 		"id": "5fd62d1f-8b8f-4607-953b-9f511853d901",
+<<<<<<< HEAD
 		"publisherId": "74ad7f85-29fa-496c-83ff-38ad00ff9d0f",
 		"publisherDisplayName": "josiphaboic"
+=======
+		"publisherDisplayName": "josiphaboic",
+		"publisherId": "74ad7f85-29fa-496c-83ff-38ad00ff9d0f"
+>>>>>>> 72383cc8ee37f52453726e07053890cc900bc981
 	}
 }
