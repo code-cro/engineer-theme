@@ -6,7 +6,7 @@
 	"repository": {
 		"url": "https://github.com/JosipHaboic/engineer-theme.git"
 	},
-	"version": "100.1.0",
+	"version": "100.1.1",
 	"engines": {
 		"vscode": "^1.40.0"
 	},
@@ -23,7 +23,7 @@
 			{
 				"label": "Engineer v2",
 				"uiTheme": "vs-dark",
-				"path": "./themes/engineer.json"
+				"path": "./themes/engineer-v2.json"
 			}
 		]
 	},
